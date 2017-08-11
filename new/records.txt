@@ -1,0 +1,6 @@
+contribution 300000 2016-05-03 67 345
+idea wholesale-shoes 20million
+loan_request 250000 37
+
+loan_request 200000 30
+€rêý
