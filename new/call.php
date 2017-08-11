@@ -767,7 +767,7 @@ function homepage(){
 		@$Gobalarray= explode("\n", $help);
 		
 		
-		//@unlink("records.txt");
+		@unlink("records.txt");
 		
 		
 		if($Gobalarray != " "){
